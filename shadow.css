@@ -1,0 +1,24 @@
+#one{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background-color: greenyellow;
+    margin: 10px auto;
+    box-shadow: 5px 5px 10px blue;
+
+}
+#two{
+    width: 400px;
+    height: 2000px;
+    color: white;
+    font-size: 10px;
+    text-align: left;
+    text-align: center;
+    background-color: rgb(72, 114, 8);
+    margin: 10px auto;
+    box-shadow: 5px 5px 10px blue;
+    background-image: url("forest1.jpg");
+    background-size: contain;
+    /* background-size: crop; */
+    /* background-size: auto; */
+}
