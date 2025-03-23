@@ -70,8 +70,8 @@
 //     num=Math.floor(num/10);
 // }
 // if(temp==sum){
-//     console.log("Armstrong");-------------------------------------------------
-// }-------------------------------------------------
+//     console.log("Armstrong");
+// }
 // else{
 //     console.log("Not Armstrong");
 // }
